@@ -1,0 +1,10 @@
+# vorgehen
+
+code aktualisieren durch in der kosole
+(git add .)
+
+(git commit -m "kommentar")
+
+Hochladen zu GItlap oder Github
+(git push GItlap)
+(git push Github)
